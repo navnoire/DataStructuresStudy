@@ -1,5 +1,5 @@
 ﻿using System;
-using DataStructures_LIB.Deque;
+using DataStructures.LIB.Deque;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace DataStructures.TESTS

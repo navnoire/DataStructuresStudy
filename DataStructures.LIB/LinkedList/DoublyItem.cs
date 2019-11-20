@@ -1,5 +1,5 @@
 ﻿using System;
-namespace DataStructures_LIB.LinkedList
+namespace DataStructures.LIB.LinkedList
 {
     public class DoublyItem<T>
     {

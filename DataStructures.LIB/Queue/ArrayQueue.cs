@@ -1,5 +1,5 @@
 ﻿using System;
-namespace DataStructures_LIB.Queue
+namespace DataStructures.LIB.Queue
 {
     public class ArrayQueue<T>
     {

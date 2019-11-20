@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DataStructures_LIB.Deque
+namespace DataStructures.LIB.Deque
 {
     public class EasyDeque<T>
     {

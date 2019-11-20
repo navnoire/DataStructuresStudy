@@ -1,7 +1,7 @@
 ﻿using System;
-using DataStructures_LIB.LinkedList;
+using DataStructures.LIB.LinkedList;
 
-namespace DataStructures_LIB.Deque
+namespace DataStructures.LIB.Deque
 {
     public class DoublyLinkedDeque<T>
     {

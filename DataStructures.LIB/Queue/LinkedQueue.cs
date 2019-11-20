@@ -1,7 +1,7 @@
 ﻿using System;
-using DataStructures_LIB.LinkedList;
+using DataStructures.LIB.LinkedList;
 
-namespace DataStructures_LIB.Queue
+namespace DataStructures.LIB.Queue
 {
     /// <summary>
     /// Queue based on LinkedList.

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DataStructures_LIB.Queue
+namespace DataStructures.LIB.Queue
 {
     public class EasyQueue<T>
     {

@@ -1,5 +1,5 @@
 ﻿using System;
-namespace DataStructures_LIB.Stack
+namespace DataStructures.LIB.Stack
 {
     public class LinkedListStack<T>
     {

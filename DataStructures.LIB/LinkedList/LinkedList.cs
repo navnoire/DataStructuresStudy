@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Text;
 
-namespace DataStructures_LIB.LinkedList
+namespace DataStructures.LIB.LinkedList
 {
     /// <summary>
     /// Linked List.

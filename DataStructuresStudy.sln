@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.LIB", "DataStructures_LIB\DataStructures.LIB.csproj", "{848925E8-4BFE-48CB-A2B9-104167C3A107}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.LIB", "DataStructures.LIB\DataStructures.LIB.csproj", "{848925E8-4BFE-48CB-A2B9-104167C3A107}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.TESTS", "DataStructures.TESTS\DataStructures.TESTS.csproj", "{737B55B6-EB9B-484D-B03B-5F0ECDB2D187}"
 EndProject

@@ -1,5 +1,5 @@
 ﻿using System;
-using DataStructures_LIB.Set;
+using DataStructures.LIB.Set;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace DataStructures.TESTS

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DataStructures_LIB.Stack
+namespace DataStructures.LIB.Stack
 {
     public class EasyStack<T> : ICloneable
     {

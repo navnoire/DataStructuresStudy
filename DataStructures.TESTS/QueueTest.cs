@@ -1,5 +1,5 @@
 ﻿using System;
-using DataStructures_LIB.Queue;
+using DataStructures.LIB.Queue;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace DataStructures.TESTS

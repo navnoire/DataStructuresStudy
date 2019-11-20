@@ -3,9 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using DataStructures_LIB.LinkedList;
+using DataStructures.LIB.LinkedList;
 
-namespace DataStructures_LIB.Set
+namespace DataStructures.LIB.Set
 {
     public class EasySet<T>
     {
