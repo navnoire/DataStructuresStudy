@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <TargetFramework>netcoreapp3.0</TargetFramework>
@@ -9,5 +9,6 @@
         <Folder Include="Queue\" />
         <Folder Include="Deque\" />
         <Folder Include="Set\" />
+        <Folder Include="HashTable\" />
     </ItemGroup>
 </Project>
