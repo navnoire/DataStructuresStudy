@@ -21,7 +21,7 @@ namespace DataStructures.LIB.HashTable
             items[key] = item;
         }
 
-        public bool Search(T item)
+        public bool Contains(T item)
         {
             var key = GetHash(item);
             return items[key].Equals(item);
