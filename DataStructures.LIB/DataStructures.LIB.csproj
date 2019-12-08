@@ -10,5 +10,6 @@
         <Folder Include="Deque\" />
         <Folder Include="Set\" />
         <Folder Include="HashTable\" />
+        <Folder Include="Map%28Dictionary%29\" />
     </ItemGroup>
 </Project>
