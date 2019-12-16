@@ -11,5 +11,7 @@
         <Folder Include="Set\" />
         <Folder Include="HashTable\" />
         <Folder Include="Map%28Dictionary%29\" />
+        <Folder Include="BinarySearchTree\" />
+        <Folder Include="Trie\" />
     </ItemGroup>
 </Project>
